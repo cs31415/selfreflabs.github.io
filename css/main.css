@@ -1,0 +1,142 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+
+.container {
+	margin-right: 80px; /* enforce text wrapping before it reaches the very right of the screen during resize */
+	margin-top:   30px;
+    margin-bottom: 30px;
+    width: 700px;
+}
+span.header {
+    font-family:'Courier New','Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 130%;
+    font-weight: bold;
+    color: grey;
+}
+span.header b { 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 60%; 
+    font-weight: normal;
+    color: #c1c1c1;
+}
+
+span.copyright { 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 80%; 
+    font-weight: normal;
+    color: #c1c1c1;
+}
+
+nav {
+    /*margin-top:   20px;*/
+}
+
+nav ul, footer ul {
+    font-family:'Courier New','Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-item {
+    padding-right:20px;
+    border-right: 1px solid #d5d5d5;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #999; 
+}
+
+a:hover {
+    /*text-decoration: underline;*/
+}
+
+a.active {
+    color: crimson;
+    font-weight: bolder;
+}
+
+.credit {
+    font-size: 0.8em;
+    color: #999; 
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h1 {
+    font-size: 1.3em;
+    font-family: 'Courier New','Helvetica', 'Arial', 'Sans-Serif';
+    color: gray;
+}
+h3 {
+    font-size: 0.9em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+h4 {
+    font-size: 0.9em;
+    line-height: 1.4em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+}
+p, .container li {
+    font-size: 0.9em;
+    line-height: 1.4em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+.language-plaintext {
+    font-size: 1.2em;
+    background-color: whitesmoke;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 801px) {
+    body {
+        width: 70%;
+    }
+    .container, footer {
+        max-width: 650px;
+    }
+}
+@media screen and (min-width: 501px) and (max-width: 800px) {
+    body {
+        width: 80%;
+        margin: 30px auto;
+    }
+    .container, footer {
+        max-width: 450px;
+    }
+}  
+@media screen and (max-width: 500px) {
+    body {
+        width: 90%;
+        margin: 30px auto;
+    }
+    .container, footer {
+        width: 100%;
+    }
+}
