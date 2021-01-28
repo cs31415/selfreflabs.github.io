@@ -35,6 +35,6 @@ We use it as our mantra for self-improvement through self-awareness.
 
 <p>The journey that started with that little black box led him through engineering college, where he realized that the box was a calculator on steroids, with a terse language of its own, that could be used to solve not only mathematical functions but also complicated algorithms involving logical operations and data storage. There it was too that he discovered a mesmerizing property of the box known as recursion - aka self-reference. As he worked in industry, he became friendly with the genie in the box over years of coaxing, cajoling and pleading with it. The genie was a stickler for precision and frowned upon sloppiness. The clearer one expressed one's wishes, the more likely it was to comply with them. This led to a deepening interest in software engineering as a discipline in its own right.   
 
-<p>Chandra has worked with companies like Fandango and Bank of America among others on architecting and building web applications and business systems using a multitude of technologies such as AWS, lambda, .NET Core, nodeJS, SQL Server, DynamoDB to name a few.
+<p>Chandra has since worked with companies like Fandango and Bank of America among others on architecting and building web applications and business systems using a multitude of technologies such as AWS, lambda, .NET Core, nodeJS, SQL Server, DynamoDB to name a few.
 
 
