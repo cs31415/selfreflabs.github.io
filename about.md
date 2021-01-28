@@ -5,7 +5,7 @@ title: About
 
 ### About us
 At SelfRef Labs we’ve learned many lessons over the years.
-How to design software from a human's point of view. How to make software as transparent as possible to whatever it is you are trying to accomplish. How to make it a power tool, a [bicycle for the mind](https://www.brainpickings.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/) that irresistably propels you, the user towards your goal, rather than ticking off a fancy checklist of technologies. How to create [software that doesn't suck](https://corecursive.com/software-that-doesnt-suck-with-jim-blandy/).
+How to design software from a human's point of view. How to make software as transparent as possible to whatever it is you are trying to accomplish. How to make it a power tool, a [bicycle for the mind](https://www.brainpickings.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/), why, even a rocket for the mind, that irresistably propels you, the user towards your goal, rather than ticking off a fancy checklist of technologies. How to create [software that doesn't suck](https://corecursive.com/software-that-doesnt-suck-with-jim-blandy/).
 <br/>
 <br/>
 To this end, we employ some concepts we have learned over time.
