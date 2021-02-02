@@ -3,9 +3,11 @@ body {
     width: 70%;
 }
 
-img.biophoto {
+.biophoto {
     width: 90%;
     margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 0px;
 }
 
 img {
@@ -66,11 +68,11 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .nav-item {
-    padding-right:20px;
+    padding-right:10px;
     border-right: 1px solid #d5d5d5;
 }
 
