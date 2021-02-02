@@ -29,12 +29,14 @@ We use it as our mantra for self-improvement through self-awareness.
 #### [Chandra Sivaraman](https://www.linkedin.com/in/chandra-sivaraman/)
 
 <div style="width:100%;">
-<div style="float:left;width:50%; "><img class="biophoto" src="/img/cs.jpg"></div>
+<div style="float:left;width:50%; ">
+    <img class="biophoto" src="/img/cs.jpg">
+    <span class="credit">Illustration by <a href="https://www.linkedin.com/in/maxakbar/">Max Akbar</a></span>
+</div>
 <div>
-<p>Chandra grew up in a middle class household in a humble 1 bedroom apartment in the teeming city of Mumbai, India. His father presciently bought him a ZX Spectrum microcomputer out of the blue when he was 12. A wholly unexpected present that mustn't have been easy to afford. It was a magical little black box that looked like a keyboard and housed the 8-bit Zilog Z80 processor. It had to be hooked up to a TV. It booted up to a BASIC interpreter and could also screechingly load programs from a cassette player. It came with a book that taught BASIC and had the code for many games that had to be typed in line by line in order to play them. It was a portal into an alternative, entirely unsuspected  universe. 
+<p>Chandra grew up in a middle class household in a humble one bedroom apartment in the teeming city of Mumbai, India. His father bought him a ZX Spectrum microcomputer out of the blue when he was 12. It was a little black box that looked like a keyboard and housed the 8-bit Zilog Z80 processor. It didn't come with a display and had to be hooked up to a TV. It booted up into a BASIC interpreter and programs could be loaded by attaching a cassette player. It came with a book that taught BASIC and had listings for many games that had to be typed in line by line. It was a portal into an alternative universe. 
 
-<p>The journey that started with that little black box led him through engineering college, where he realized that the box was a calculator on steroids, with a terse language of its own, that could be used to solve not only mathematical functions but also complicated algorithms involving logical operations and data storage. There it was too that he discovered a mesmerizing property of the box known as recursion - aka self-reference. As he worked in industry, he became friendly with the genie in the box over years of coaxing, cajoling and pleading with it. The genie was a stickler for precision and frowned upon sloppiness. The clearer one expressed one's wishes, the more likely it was to comply with them. This led to a deepening interest in software engineering as a discipline in its own right.   
+<p>The journey that started with the little black box led him through engineering college. Many happy hours were spent in the computer lab. There it was too that he discovered a magical property of the box known as recursion - self-reference, self-awareness - that enabled complex problems to be broken down into simpler ones. As he worked in industry, he became friendly with the genie in the box over years of coaxing, cajoling and pleading with it. The genie cavalierly punished sloppiness. This led to a deepening interest in software engineering as a discipline in its own right.   
 
-<p>Chandra has since worked with companies like Fandango and Bank of America among others on architecting and building web applications and business systems using a multitude of technologies such as AWS, lambda, .NET Core, nodeJS, SQL Server, DynamoDB to name a few.
-
+<p>Chandra has since worked with companies like Fandango and Bank of America among others on architecting and building web applications and business systems using a multitude of technologies such as AWS, lambda, .NET Core, nodeJS, SQL Server, DynamoDB, etc. Creating software that not only satisfies constraints, but is maintainable and malleable have been central concerns over the years.
 
