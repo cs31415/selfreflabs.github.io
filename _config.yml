@@ -3,3 +3,4 @@ title: SelfRef Labs
 description: Cloud migration, legacy system modernization
 copyright: © 2020 SelfRef Labs
 permalink: /:categories/:title/
+highlighter: rouge

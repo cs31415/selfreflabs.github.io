@@ -3,23 +3,36 @@ body {
     width: 70%;
 }
 
+.container {
+	margin-right: 80px; /* enforce text wrapping before it reaches the very right of the screen during resize */
+	margin-top:   30px;
+    margin-bottom: 30px;
+}
+
 .biophoto {
     width: 90%;
     margin-bottom: 10px;
     margin-left: 20px;
-    margin-right: 0px;
+    margin-right: 0px
 }
 
 img {
     width: 100%;
 }
 
-.container {
-	margin-right: 80px; /* enforce text wrapping before it reaches the very right of the screen during resize */
-	margin-top:   30px;
-    margin-bottom: 30px;
-    
+/*.top {
+    background-color: whitesmoke;    
+    border-left: 1px solid #d5d5d5;
+    border-right: 1px solid #d5d5d5;
 }
+
+footer {
+    background-color: whitesmoke;    
+    border-top: 1px solid #d5d5d5;
+    border-left: 1px solid #d5d5d5;
+    border-right: 1px solid #d5d5d5;
+}*/
+
 .right{
     direction: right;
 }
@@ -31,15 +44,18 @@ img {
     border-left: 1px solid #d5d5d5;
     border-right: 1px solid #d5d5d5;
 }
+
 span.header {
     font-family:'Courier New','Helvetica', 'Arial', 'Sans-Serif';
     font-size: 130%;
     font-weight: bold;
     color: grey;
 }
+
 span.header a {
     color: #818181;
 }
+
 span.header b { 
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 60%; 
@@ -56,24 +72,30 @@ span.copyright {
 
 nav {
     /*margin-top:   20px;*/
+    /*padding-left: 30%;
+    padding-right: 30%;*/
 }
 
 nav ul, footer ul {
     font-family:'Courier New','Helvetica', 'Arial', 'Sans-Serif';
-
     list-style: none;
     font-weight: normal;
     padding:0px;
 }
 
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
-    margin-right: 10px;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
 
 .nav-item {
+    padding-left:2px;
     padding-right:10px;
-    border-right: 1px solid #d5d5d5;
+    border-right: 1px solid gainsboro;
 }
 
 a {
@@ -127,8 +149,8 @@ p, .container li {
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    border-top: 1px solid #d5d5d5;
 }
 
 ul.posts { 
@@ -144,6 +166,15 @@ pre.highlight {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+blockquote {
+    padding: 5px 15px;
+    background-color:#F5F8FA;
+    border-left:5px solid #30404D;
+    margin:0 0 5px;
+    word-wrap:break-word
+}
+
 /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
 @media screen and (min-width: 801px) {
     body {
